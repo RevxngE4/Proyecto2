@@ -1,17 +1,3 @@
-# Weather App
-
-This is a simple weather application that provides weather information for a specific location. Users can input their location and receive data on temperature, weather description, humidity, and wind speed.
-
-## Repository Contents
-
-- **index.html**: This file contains the HTML structure of the web application, including the user interface and the inclusion of fonts and styles.
-
-- **style.css**: The CSS file defines the application's styles, including the user interface design, element appearance, and animations.
-
-- **index.js**: The JavaScript file contains the application's logic, including data retrieval and presentation. It utilizes the OpenWeatherMap API to obtain weather information.
-
-- **images/404.png**: This folder contains an error image displayed when an invalid location is entered.
-
 # Приложение Погоды
 
 Это простое приложение погоды, которое предоставляет информацию о погоде для конкретного местоположения. Пользователи могут ввести свое местоположение и получить данные о температуре, описании погоды, влажности и скорости ветра.
